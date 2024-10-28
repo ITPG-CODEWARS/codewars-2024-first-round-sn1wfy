@@ -81,6 +81,12 @@ h1, h2, h3 {
     text-align: center;
     animation: fadeIn 2s ease;
 }
+.hero-image {
+    width: 350px; 
+    height: 350px;
+    border-radius: 50%; 
+    margin-bottom: 200px; 
+}
 
 .hero h1 {
     font-size: 5rem;
