@@ -119,7 +119,27 @@ h1, h2, h3 {
     background: linear-gradient(90deg, #ff8a00, #ff4081);
     box-shadow: 0 8px 15px rgba(255, 105, 135, 0.5);
 }
+.content-section {
+    max-width: 800px;
+    text-align: center;
+    padding: 20px;
+    background: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 40px auto;
+}
 
+
+ul {
+    text-align: left;
+    margin-top: 1rem;
+    padding-left: 20px;
+    color: #666;
+}
+
+li {
+    margin-bottom: 10px;
+}
 .section {
     padding: 50px 20px;
     opacity: 1; /* Промени на 1, за да видиш секцията веднага */
@@ -293,7 +313,6 @@ footer {
     text-align: center;
     font-size: 1rem;
 }
-
 
 
 
